@@ -1,4 +1,4 @@
-export PATH="/usr/local/mysql/bin:/usr/local/mysql/bin/mysql:/Applications/MacVim.app/Contents/bin:$PATH"
+export PATH="/opt/homebrew/bin/:/usr/local/mysql/bin:/usr/local/mysql/bin/mysql:/Applications/MacVim.app/Contents/bin:$PATH"
 
 # ------------------------------------------------------------------------
 alias gtemp='cd ~/temp'
